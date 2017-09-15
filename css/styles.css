@@ -1,0 +1,8 @@
+#posts .card.bg-primary a:hover {
+  background: #66b0ff; }
+
+#posts .card.bg-success a:hover {
+  background: #5dd879; }
+
+#posts .card.bg-warning a:hover {
+  background: #ffdb6d; }
